@@ -33,7 +33,7 @@ deliveryHTML.php
 
 Exibe o form de consulta do frete e após executar a consulta exibe os resultados renderizados no arquivo default-template.php.
 
-#Documentação em progresso...
+#Documentação em progresso....
    
     
 
