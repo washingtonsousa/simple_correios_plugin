@@ -17,6 +17,7 @@ $.get($("input[name=url]").val()+'main-class.php', {
   altura : $("input[name=altura]").val(),
   largura :  $("input[name=largura]").val(), 
   qty: $("input[name=quantity]").val(),
+  cepOrigin: $("input[name=cepOrigem]").val(),
 
 }).done(function(data) {
 
